@@ -26,7 +26,7 @@ Este projeto é um **cartão virtual** desenvolvido em **React.js** para apresen
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/aysllanpereira/-Aesthetic-Clinic.git
 
 2. Instale as dependências:
    npm install ou npm i
