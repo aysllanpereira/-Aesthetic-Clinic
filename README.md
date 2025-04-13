@@ -1,12 +1,37 @@
-# React + Vite
+# 💼 Cartão Virtual - Ayalla Santos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é um **cartão virtual** desenvolvido em **React.js** para apresentar as informações profissionais da esteticista **Ayalla Santos**, com um visual moderno, interativo e responsivo.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React.js
+- CSS Modules
+- Bootstrap Icons
+- Vite
 
-## Expanding the ESLint configuration
+## 📋 Funcionalidades
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ Exibição de foto, nome, redes sociais e CRM
+- ✅ Cards interativos com ícones (WhatsApp, guia gratuito, comunidade VIP e localização)
+- ✅ Design responsivo
+- ✅ Estilização com CSS modular
+
+## 📁 Estrutura de Componentes
+
+- `Header` – Apresentação pessoal
+- `Card` – Ícones com chamadas para ação
+- `Content` – Container geral
+
+## 🛠️ Como Executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
+2. Instale as dependências:
+   npm install ou npm i
+
+3. Execute o projeto:
+   npm run dev
+
+💬 Projeto desenvolvido por Aysllan Santos da Silva Pereira para fins profissionais.
