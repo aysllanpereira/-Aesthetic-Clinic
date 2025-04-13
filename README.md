@@ -11,7 +11,7 @@ Este projeto é um **cartão virtual** desenvolvido em **React.js** para apresen
 
 ## 📋 Funcionalidades
 
-- ✅ Exibição de foto, nome, redes sociais e CRM
+- ✅ Exibição de foto, nome, redes sociais e CRBM
 - ✅ Cards interativos com ícones (WhatsApp, guia gratuito, comunidade VIP e localização)
 - ✅ Design responsivo
 - ✅ Estilização com CSS modular
