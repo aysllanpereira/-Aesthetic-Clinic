@@ -1,0 +1,23 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    transition: all 1s ease-in-out;
+    box-sizing: border-box;
+}
+
+body {
+    background: #FFD6BA;
+    opacity: 0;
+    animation: fadeIn 1s ease forwards; 
+}
+
+body, p, a, h1, h2, button, img, div {
+    transition: color 1s ease, background-color 1s ease, transform 1s ease, box-shadow 1s ease;
+}
+  
+@keyframes fadeIn {
+    to {
+        opacity: 1;
+    }
+}

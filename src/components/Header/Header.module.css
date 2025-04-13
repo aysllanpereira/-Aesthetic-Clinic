@@ -1,0 +1,48 @@
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 8px;
+}
+
+.headerImg {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%; 
+    object-fit: cover;
+    object-position: top;
+    margin-bottom: 16px;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.header p {
+    margin: 0;
+    font-size: 16px;
+}
+
+.header a {
+    text-decoration: none;
+    color: black;
+    margin: 0;
+}
+
+@media (nax-width: 480px) {
+    .headerImg {
+        width: 120px;
+        height: 120px;
+    }
+
+    .header h1 {
+        font-size: 20px;
+    }
+
+    .header p {
+        font-size: 14px;
+    }
+}
