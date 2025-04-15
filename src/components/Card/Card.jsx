@@ -5,7 +5,7 @@ export const Card = () => {
 
   const handleWhats = () => {
     const numberWhats = "5561991694382";
-    const messageZap = `Olá! Gostaria de agendar uma consulta!`;
+    const messageZap = `Olá! Gostaria de agendar uma avaliação.`;
     const linkWhats = `https://wa.me/${numberWhats}?text=${encodeURIComponent(messageZap)}`;
     window.open(linkWhats, "_blanck")
   }
