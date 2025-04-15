@@ -14,7 +14,7 @@ export const Header = () => {
                         alt="Ayalla Santos"
                         className={Styles.headerImg}
                     />
-                    <h1>Ayalla Santos da Silva Pereira</h1>
+                    <h1>Ayalla Pereira</h1>
                     <p>Estética Natural e Sofisticação!</p>
                     <p><a href={linkInsta} target='_blank'>@dra.ayalla_pereira</a></p>
                     <p>CRBM DF 7126</p>
